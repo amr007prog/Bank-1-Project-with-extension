@@ -43,4 +43,3 @@ The system allows users to perform essential banking operations like adding clie
 
 ---
 
-## 📁 File Structure
