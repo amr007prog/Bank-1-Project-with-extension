@@ -41,5 +41,3 @@ The system allows users to perform essential banking operations like adding clie
 - **Concepts:** File Handling, Vectors, Structs, Enums, Loops, Conditionals  
 - **Compiler:** Any C++17-compatible compiler (e.g., Visual Studio, Code::Blocks, g++)  
 
----
-
